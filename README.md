@@ -22,7 +22,7 @@ Practica SMX2-M8UF1A2 - M8 web
 
 |Aplicaciones |Visto|
 |---------------|:----------:|
-|Google Docs| |[Tick]()|
+|Google Docs| |[Tick](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png)|
 |Google Slides|[Tick]()|
 |Google Sheets|[Tick]()|
 |Google Calendar|[Calendar]()|
