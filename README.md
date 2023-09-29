@@ -22,11 +22,11 @@ Practica SMX2-M8UF1A2 - M8 web
 
 |Aplicaciones |Visto|
 |---------------|:----------:|
-|Google Docs| |[Tick](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
-|Google Slides|[Tick](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
-|Google Sheets|[Tick](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
-|Google Calendar|[Calendar](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/calendario.png) "calendar"|
-|Google Meet|[portatil](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/pc.png)"portatil"|
+|Google Docs| |(https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
+|Google Slides|(https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
+|Google Sheets|(https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20161651.png) "tick"|
+|Google Calendar|(https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/calendario.png) "calendar"|
+|Google Meet|(https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/pc.png)"portatil"|
 |...|...|
 
 **6. ¿Qué es HTML?**
