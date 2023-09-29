@@ -34,19 +34,23 @@ Practica SMX2-M8UF1A2 - M8 web
    - Respuesta: HTML, que significa Lenguaje de Marcado de HiperTexto (HyperText Markup Language en inglés), es el lenguaje de programación empleado en la elaboración de páginas web. No es un lenguaje de programación en sí, sino un lenguaje de marcado que define la estructura de tu contenido
 
 
-    ```
-<D0CTYPE html>
+ ```
+<!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-    <meta charset="UFT-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="wiidth, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
+
 <body>
+
 </body>
 </html>
-    ```
+```
 
 
 **7. ¿Qué es CSS?**
