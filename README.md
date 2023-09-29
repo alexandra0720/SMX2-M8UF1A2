@@ -41,7 +41,7 @@ Practica SMX2-M8UF1A2 - M8 web
     <meta charset="UFT-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="wiidth, initial-scale=1.0">
-    <title> Document </title>
+    <title>Document</title>
 </head>
 <body>
 </body>
@@ -54,3 +54,4 @@ Practica SMX2-M8UF1A2 - M8 web
    - Respuesta: CSS, que significa Hojas de Estilo en Cascada (Cascading Style Sheets en inglés), es un lenguaje de programación que se utiliza para determinar el diseño de los documentos electrónicos. Se trata de un lenguaje para el manejo del diseño, cambios, mejoras, presentación y personalización de páginas web2.
 
 **8. Flujo de trabajo (navegador, petición, servidor y respuesta):**
+![Imagen nueva](https://github.com/alexandra0720/SMX2-M8UF1A2/blob/main/ultima%20foto.png "ultima foto")
